@@ -1,0 +1,10 @@
+C:\Users\Golubov.Aleksey\Desktop\ticket\orders\Client\bin\Release\Client.exe.config
+C:\Users\Golubov.Aleksey\Desktop\ticket\orders\Client\bin\Release\Client.exe
+C:\Users\Golubov.Aleksey\Desktop\ticket\orders\Client\bin\Release\Client.pdb
+C:\Users\Golubov.Aleksey\Desktop\ticket\orders\Client\bin\Release\Newtonsoft.Json.dll
+C:\Users\Golubov.Aleksey\Desktop\ticket\orders\Client\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\Golubov.Aleksey\Desktop\ticket\orders\Client\bin\Release\Newtonsoft.Json.xml
+C:\Users\Golubov.Aleksey\Desktop\ticket\orders\Client\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\Golubov.Aleksey\Desktop\ticket\orders\Client\obj\Release\Client.csprojResolveAssemblyReference.cache
+C:\Users\Golubov.Aleksey\Desktop\ticket\orders\Client\obj\Release\Client.exe
+C:\Users\Golubov.Aleksey\Desktop\ticket\orders\Client\obj\Release\Client.pdb
